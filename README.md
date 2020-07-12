@@ -1,1 +1,1 @@
-# C--Demo
+# C++ 2Player Chess
